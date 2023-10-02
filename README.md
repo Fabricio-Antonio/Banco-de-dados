@@ -18,7 +18,14 @@ Este foi um trabalho da matéria de banco de dados no qual foi dado para os alun
 
 ### Atributos das tabelas de veículos, clientes, funcionários, movimentos, e oficina respectivamente
 ![atributos veículos](atributos_veiculo.png)
-![atributos veículos](atributos_veiculo.png)
-![atributos veículos](atributos_veiculo.png)
-![atributos veículos](atributos_veiculo.png)
-![atributos veículos](atributos_veiculo.png)
+![atributos veículos](atributos_cliente.png)
+![atributos veículos](atributos_funcionarios.png)
+![atributos veículos](atributos_movimento.png)
+![atributos veículos](atributos_oficina.png)
+
+### Tabela de cliente, funcionários, veículos, movimento e oficina respectivamente
+![tabela clientes](tabela_de_clientes.png)
+![tabela funcioario](tabela_de_funcionarios.png)
+![tabela veiculo](tabela_de_veiculos.png)
+![tabela movimento](tabela_movimento.png)
+![tabela oficina](tabela_oficina.png)
