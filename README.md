@@ -16,4 +16,9 @@ Este foi um trabalho da matéria de banco de dados no qual foi dado para os alun
 #### Modelo lógico
 ![Modelo logico](Modelo_logico.png)
 
-![atributos veículos](Modelo_logico.png)
+### Atributos das tabelas de veículos, clientes, funcionários, movimentos, e oficina respectivamente
+![atributos veículos](atributos_veiculo.png)
+![atributos veículos](atributos_veiculo.png)
+![atributos veículos](atributos_veiculo.png)
+![atributos veículos](atributos_veiculo.png)
+![atributos veículos](atributos_veiculo.png)
