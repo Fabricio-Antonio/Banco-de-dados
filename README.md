@@ -8,4 +8,12 @@ Este foi um trabalho da matéria de banco de dados no qual foi dado para os alun
  - O banco de dados deveria conter também a criação de cinco usuários e cada usuário com privilégios diferentes
  - A concepção do bando de dados deveria ser incluso o modelo conceitual, lógico, e físico.
 
-![Modelo conceitual](Modelo_logico.png)
+### Imagens dos modelos, tabelas e atributos
+
+#### Modelo conceitual
+![Modelo conceitual](Modelo_conceitual.png)
+
+#### Modelo lógico
+![Modelo logico](Modelo_logico.png)
+
+![atributos veículos](Modelo_logico.png)
