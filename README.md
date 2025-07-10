@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/71ff6ae3-2fb2-4466-80e3-a09f0c22baf76" width="120" />
+</div>
+
 # Banco de dados para locadora de carros
 
 Este foi um trabalho da matéria de banco de dados no qual foi dado para os alunos da turma o desafio de criar um banco de dados com MySQL para uma locadora de veículos seguindo alguns critérios
